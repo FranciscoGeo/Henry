@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+  
+ * Variables: Una variable es una palabra clave a la que se le asigna un numero, palabra, signo o conjunto de signos, se crea con la palabra: var.
+ 
+ * Strings: Un string es cualquier palabra, signo o conjunto de signos, se escribe entre los siguientes signos: ` `.
+ 
+ * Funciones (argumento, `return`): La función return sirve para que el lector de texto te devuelva algún dato que le pediste .
+  
+ * Declaraciones `if`: if es lo mismo que decir si (ejemplo: si cumple esta regla devolver esta respuesta).
+  
+ * Valores booleanos (`true`, `false`): Los valores booleanos se usan para describir si algo es falso o verdadero (false = flaso, true = verdadero).
